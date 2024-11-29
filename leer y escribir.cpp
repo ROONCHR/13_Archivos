@@ -33,7 +33,7 @@ void leer(int unidades,double precio,string RUC, string producto) {
 		
 		
 	}else{
-		cout<<"같ERROR: El Archivo no se pudo abrir.같"<<endl;
+		cout<<"째째ERROR: El Archivo no se pudo abrir.째째"<<endl;
 	}
 	
 }
